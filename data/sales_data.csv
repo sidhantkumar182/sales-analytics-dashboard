@@ -1,0 +1,11 @@
+OrderID,Product,Region,Sales,Profit
+1001,Laptop,North,50000,8000
+1002,Mouse,South,2000,500
+1003,Keyboard,East,3000,700
+1004,Laptop,West,45000,7000
+1005,Monitor,North,12000,2500
+1006,Mouse,East,1800,400
+1007,Keyboard,South,3500,800
+1008,Monitor,West,15000,3000
+1009,Laptop,South,55000,9000
+1010,Monitor,East,13000,2700
